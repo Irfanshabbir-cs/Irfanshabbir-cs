@@ -37,9 +37,6 @@ I build clean, practical digital products with a strong focus on user experience
 - Building full-stack and mobile-friendly experiences
 - Expanding my knowledge in modern web and app development
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfanshabbir-cs&show_icons=true&theme=dark)
 
 ## Connect
 
