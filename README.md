@@ -29,11 +29,7 @@ I build clean, practical digital products with a strong focus on user experience
 - VS Code
 - Docker
 
-## Featured Projects
 
-- [TaskFlow](https://github.com/Irfanshabbir-cs/Task-flow) — Team project management app with roles, permissions, and Kanban workflows
-- [ShieldVPN](https://github.com/Irfanshabbir-cs/Vpn) — Flutter VPN client prototype with secure auth and architecture patterns
-- [Amazon Clone](https://github.com/Irfanshabbir-cs/amazon) — Front-end e-commerce experience inspired by Amazon
 
 ## Current Focus
 
@@ -48,6 +44,6 @@ I build clean, practical digital products with a strong focus on user experience
 ## Connect
 
 - GitHub: [@Irfanshabbir-cs](https://github.com/Irfanshabbir-cs)
-- Email: irfanshabbir.cs@gmail.com
+- Email: irfandar767@gmail.com
 
 > Building useful products and learning by doing.
